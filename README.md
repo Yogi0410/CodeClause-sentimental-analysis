@@ -1,2 +1,19 @@
-# codeclause-sentimental-analysis
-Sentiment analysis is the process of analyzing language to identify attitudes and opinions. A Python model was built to analyze tweet sentiment as positive, negative, or neutral. Emoticons like :) were considered positive, and :( were negative. This helps businesses understand customer feedback and improve products.
+# Sentiment Analysis  
+
+Description - The process of analyzing language to identify attitudes and opinions, depending on their polarity, is known as sentiment analysis.I built a model in Python for this data science project so that it can analyze tweet sentiment, including positive, negative, and neutral sentiment. The dataset makes the assumption that any tweets with emoticons, such as :), were good, and that tweets with emoticons, such as :(, were negative.
+
+
+
+## Tools and Language used
+- Tools - Jupyter Notebook
+- Language used - Python 
+## Python Libraries Used 
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- nltk
+
+## Authors
+
+- [Yogeshwar Kaulwar](https://github.com/Yogi0410)
